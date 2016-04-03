@@ -38,3 +38,7 @@ C.Begin to develop the grid.
 
 Now, you can begin to develop the grid. 
 Begin with [Hello Grid](http://helpme.dataludi.com/projects/grid/demo/en/Examples_HelloGrid) example. You can find more examples on the [Demo](http://helpme.dataludi.com/projects/grid/demo). 
+
+D.jszip
+
+DataLudi use jszip for file compression. Licensing rules about using jszip is included in jszip.min.js. Please check https://raw.github.com/Stuk/jszip/master/LICENSE.markdown.
